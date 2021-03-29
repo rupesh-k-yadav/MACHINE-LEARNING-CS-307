@@ -2,6 +2,7 @@
 import numpy as np
 from matplotlib import pyplot as plt
 
+
 x = [1, 2, 3]
 y = [1.2, 1.9, 3.2]
 plt.plot(x, y, 'go')
